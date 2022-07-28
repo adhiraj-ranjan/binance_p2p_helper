@@ -6,6 +6,7 @@ Note - Runs on **`python3`**
 ### Install Dependencies
 - requests
 - tabulate
+**`pip install requests tablate`** or **`pip install requirements.txt`**
 
 ### Usage
 On running the script **`python main.py`**, Enter amount (from which you want to trade with/find opportunity with) separated by spaces for multiple searches at once.
