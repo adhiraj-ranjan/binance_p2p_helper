@@ -23,3 +23,10 @@ It will fetch Current Market Prices, and Respective Ad Quotes, and Shows the pro
 
 NOTE - Most of the time, table data might be empty, this just means there is no easy opportunity.
 
+### Find Me on :
+<p align="left">
+  <a href="https://github.com/adhiraj-ranjan" target="_blank"><img src="https://img.shields.io/badge/Github-adhiraj-ranjan-grey?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/adhirajranjan.i" target="_blank"><img src="https://img.shields.io/badge/IG-adhiraj_ranjan-pink?style=for-the-badge&logo=instagram"></a>
+  <a href="https://t.me/adhirajranjan" target="_blank"><img src="https://img.shields.io/badge/TELEGRAM-ADHIRAJ%20RANJAN-blue?style=for-the-badge&logo=telegram"></a>
+  
+</p>
