@@ -6,7 +6,8 @@ Note - Runs on **`python3`**
 ### Install Dependencies
 - requests
 - tabulate
-<br>
+
+
 **`pip install requests tablate`** or **`pip install requirements.txt`**
 
 ### Usage
