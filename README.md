@@ -20,7 +20,7 @@ It will fetch Current Market Prices, and Respective Ad Quotes, and Shows the pro
     - Upon Buying an asset from specified Ad, and Converting to USDT and selling it throught Ads gives profit, returns Profit
     - On Buying USDT from Ad at good price, Converting it to Specified Asset and selling it to specified User, return Profit
  
-### Things to keep nder consideration
+### Things to keep under consideration
 1) Crypto prices are very volatile
 2) Calculated profit at current can change to loss the other second
 
