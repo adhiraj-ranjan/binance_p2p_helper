@@ -92,6 +92,7 @@ base_quote = get_ad_quote(coin=baseCoin, tradeType="BUY", ad_num=5)
 
 
 for baseMoney in baseMoney_:
+    
     profit_data = []
     print(f"# CALCULATING FOR INR {baseMoney}")
     
